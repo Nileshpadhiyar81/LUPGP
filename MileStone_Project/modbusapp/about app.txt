@@ -1,0 +1,7 @@
+ with this app you can capture(log) holding register integer values using modbus tcpip protocol.
+ in modbus protocol there will be a shift so data of register 1 will be shown on register 2 ( this depends on device please check your device manual)
+ enter the parameter and click connect then it will start creating dataframe upto user input secs and then it will create report of excel file as
+ "report of current date and time,xlsx" into current directory
+ the app will take around 10-20 sec cuz it will unzip its runtime files into temporary folder
+ 
+
